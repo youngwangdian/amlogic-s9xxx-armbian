@@ -101,7 +101,7 @@ auto_kernel="true"
 build_board="all"
 
 # Set Armbian size (Unit: MiB, boot_mb >= 256, root_mb >= 2048)
-boot_mb="512"
+boot_mb="180"
 root_mb="2560"
 # Set ROOTFS partition file system type, options: [ ext4 / btrfs ]
 rootfs_type="ext4"
